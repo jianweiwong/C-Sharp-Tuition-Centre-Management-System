@@ -1,0 +1,928 @@
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentLogin.resources
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+C:\Users\user\Desktop\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\user\Desktop\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+C:\Users\user\Desktop\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\user\Desktop\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\user\Desktop\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Assignment\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\Assignment\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.addClassInfoTutor.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.mainPageTutor.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewEnrolledStudent.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateProfileTutor.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.updtAndDltClass.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PasswordCheckTutor.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.addClassInfoTutor.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.mainPageTutor.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PasswordCheckTutor.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateProfileTutor.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.updtAndDltClass.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewEnrolledStudent.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminHomepage.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminProfile.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Recep.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterReceptionist.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterTutor.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.View_Report.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewTutors.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_DeleteStudent.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.addClassInfoTutor.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminHomepage.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminProfile.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.mainPageTutor.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PasswordCheckTutor.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Recep.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_DeleteStudent.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterReceptionist.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterTutor.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateProfileTutor.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.updtAndDltClass.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.View_Report.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewEnrolledStudent.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewTutors.resources
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.addClassInfoTutor.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminHomepage.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminProfile.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.mainPageTutor.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PasswordCheckTutor.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Recep.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_DeleteStudent.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterReceptionist.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterTutor.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateProfileTutor.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.updtAndDltClass.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.View_Report.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewEnrolledStudent.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewTutors.resources
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Jayden Chong\OneDrive\桌面\Assignment - Copy\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.addClassInfoTutor.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminHomepage.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminProfile.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.mainPageTutor.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PasswordCheckTutor.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Recep.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_DeleteStudent.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterReceptionist.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterTutor.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateAdmin.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdatePassword.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateProfileTutor.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.updtAndDltClass.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.View_Report.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewEnrolledStudent.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewTutors.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Landing_Page.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Login.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Payment.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Register_Enroll.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Update_Subject.resources
+C:\Users\wongj\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_View_Update_Profile.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminHomepage.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminProfile.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Recep.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_DeleteStudent.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Landing_Page.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Login.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Payment.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Register_Enroll.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Update_Subject.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_View_Update_Profile.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterReceptionist.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterTutor.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateAdmin.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdatePassword.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.View_Report.resources
+C:\Users\user\Desktop\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewTutors.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.addClassInfoTutor.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminHomepage.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminProfile.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.mainPageTutor.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PasswordCheckTutor.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Recep.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_DeleteStudent.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Landing_Page.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Login.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Payment.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Register_Enroll.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Update_Subject.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_View_Update_Profile.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterReceptionist.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterTutor.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateAdmin.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdatePassword.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateProfileTutor.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.updtAndDltClass.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.View_Report.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewEnrolledStudent.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewTutors.resources
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\jingd\Downloads\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.addClassInfoTutor.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminHomepage.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminProfile.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.mainPageTutor.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PasswordCheckTutor.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Recep.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_DeleteStudent.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Landing_Page.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Login.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Payment.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Register_Enroll.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Update_Subject.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_View_Update_Profile.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterReceptionist.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterTutor.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateAdmin.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdatePassword.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateProfileTutor.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.updtAndDltClass.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.View_Report.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewEnrolledStudent.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewTutors.resources
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\wongj\Desktop\Assignment - Copy (2)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.addClassInfoTutor.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminHomepage.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminProfile.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.mainPageTutor.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PasswordCheckTutor.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Recep.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_DeleteStudent.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Landing_Page.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Login.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Payment.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Register_Enroll.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Update_Subject.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_View_Update_Profile.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterReceptionist.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterTutor.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateAdmin.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdatePassword.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateProfileTutor.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.updtAndDltClass.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.View_Report.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewEnrolledStudent.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewTutors.resources
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\jingd\Downloads\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.addClassInfoTutor.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminHomepage.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminProfile.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.mainPageTutor.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PasswordCheckTutor.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Recep.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_DeleteStudent.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Landing_Page.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Login.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Payment.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Register_Enroll.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Update_Subject.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_View_Update_Profile.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterReceptionist.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterTutor.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateAdmin.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdatePassword.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateProfileTutor.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.updtAndDltClass.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.View_Report.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewEnrolledStudent.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewTutors.resources
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\Assignment - Copy(final) (2)\Assignment - Copy(final)\Assignment - Copy\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\APU\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\APU\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+C:\APU\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\APU\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\APU\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\APU\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\APU\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\APU\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\APU\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\APU\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\APU\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\APU\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.addClassInfoTutor.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminHomepage.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminProfile.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.mainPageTutor.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PasswordCheckTutor.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Recep.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_DeleteStudent.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Landing_Page.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Login.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Payment.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Register_Enroll.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Update_Subject.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_View_Update_Profile.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterReceptionist.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterTutor.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateAdmin.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdatePassword.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateProfileTutor.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.updtAndDltClass.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.View_Report.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewEnrolledStudent.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewTutors.resources
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\APU\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.addClassInfoTutor.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminHomepage.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminProfile.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.mainPageTutor.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PasswordCheckTutor.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Recep.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_DeleteStudent.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Landing_Page.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Login.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Payment.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Register_Enroll.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Update_Subject.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_View_Update_Profile.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterReceptionist.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterTutor.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateAdmin.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdatePassword.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateProfileTutor.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.updtAndDltClass.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.View_Report.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewEnrolledStudent.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewTutors.resources
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\wongj\Desktop\Group 5\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\user\Desktop\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\user\Desktop\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+C:\Users\user\Desktop\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\user\Desktop\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\user\Desktop\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.addClassInfoTutor.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminHomepage.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminProfile.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.mainPageTutor.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PasswordCheckTutor.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Recep.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_DeleteStudent.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Landing_Page.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Login.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Payment.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Register_Enroll.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Update_Subject.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_View_Update_Profile.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterReceptionist.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterTutor.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateAdmin.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdatePassword.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateProfileTutor.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.updtAndDltClass.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.View_Report.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewEnrolledStudent.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewTutors.resources
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.addClassInfoTutor.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminHomepage.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminProfile.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.mainPageTutor.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PasswordCheckTutor.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Recep.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_DeleteStudent.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Landing_Page.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Login.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Payment.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Register_Enroll.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Update_Subject.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_View_Update_Profile.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterReceptionist.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterTutor.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateAdmin.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdatePassword.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateProfileTutor.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.updtAndDltClass.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.View_Report.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewEnrolledStudent.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewTutors.resources
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\Degree-APU\Year 1\Sem 2\IOOP\Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\APU\APU sem 2\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\APU\APU sem 2\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+C:\APU\APU sem 2\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\APU\APU sem 2\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\APU\APU sem 2\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\APU\APU sem 2\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\APU\APU sem 2\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\APU\APU sem 2\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\APU\APU sem 2\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\APU\APU sem 2\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\APU\APU sem 2\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\APU\APU sem 2\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.addClassInfoTutor.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminHomepage.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminProfile.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.mainPageTutor.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PasswordCheckTutor.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Recep.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_DeleteStudent.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Landing_Page.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Login.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Payment.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Register_Enroll.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Update_Subject.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_View_Update_Profile.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterReceptionist.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterTutor.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateAdmin.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdatePassword.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateProfileTutor.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.updtAndDltClass.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.View_Report.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewEnrolledStudent.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewTutors.resources
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\APU\APU sem 2\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.addClassInfoTutor.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminHomepage.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminProfile.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.mainPageTutor.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PasswordCheckTutor.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Recep.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_DeleteStudent.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Landing_Page.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Login.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Payment.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Register_Enroll.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Update_Subject.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_View_Update_Profile.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterReceptionist.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterTutor.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateAdmin.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdatePassword.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateProfileTutor.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.updtAndDltClass.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.View_Report.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewEnrolledStudent.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewTutors.resources
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\APU WJW\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.addClassInfoTutor.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminHomepage.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminProfile.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentMainMenu.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentProfile.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentRequest.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentSchedule.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdatePassword.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormStudentUpdateProfile.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.mainPageTutor.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PasswordCheckTutor.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Recep.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_DeleteStudent.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Landing_Page.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Login.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Payment.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Register_Enroll.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_Update_Subject.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist_View_Update_Profile.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterReceptionist.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterTutor.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateAdmin.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdatePassword.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UpdateProfileTutor.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.updtAndDltClass.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.View_Report.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewEnrolledStudent.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ViewTutors.resources
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\APU WJW\WJW\APU Archives\Y1 S2\Introduction To Object Oriented Programming\Assignments\Group Assignment\Group 5\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
